@@ -1,0 +1,8 @@
+{
+  "name": "Keedohub",
+  "description": "Creative Operating System for artists, creators, brands, and creative teams featuring release engines, asset workspaces, studio services, and momentum trackers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
